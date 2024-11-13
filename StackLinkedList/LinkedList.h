@@ -8,4 +8,4 @@ typedef struct usIntNode
 usIntNode* createNewNode(usIntNode* headOfList, unsigned int value);
 
 //this function removes the node at the head of the list
-usIntNode* removeNode(usIntNode* theNode);
+int removeNode(usIntNode** firstNode);

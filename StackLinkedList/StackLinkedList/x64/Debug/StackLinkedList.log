@@ -1,0 +1,10 @@
+﻿  LinkedList.cpp
+  stack.cpp
+  testermain.cpp
+C:\Users\Cyber_User\Desktop\homework GUR 3\YotamAtun-hw1\StackLinkedList\testermain.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\Cyber_User\Desktop\homework GUR 3\YotamAtun-hw1\StackLinkedList\testermain.cpp(20,9): warning C4005: 'PURPLE': macro redefinition
+      C:\Users\Cyber_User\Desktop\homework GUR 3\YotamAtun-hw1\StackLinkedList\testermain.cpp(14,9):
+      see previous definition of 'PURPLE'
+  
+  Generating Code...
+  StackLinkedList.vcxproj -> C:\Users\Cyber_User\Desktop\homework GUR 3\YotamAtun-hw1\StackLinkedList\x64\Debug\StackLinkedList.exe
